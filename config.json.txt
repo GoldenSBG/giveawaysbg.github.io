@@ -1,6 +1,6 @@
 {
-  "token": "OTUxODE0MzAzMDM4NzA5ODAw.Yis8JQ.HJsbmGScjOmILrFH8Px6qA_IyJU", 
-  "prefix": "$",
+  "token": "OTU5NzYyMTM1MDQxMzMxMjUy.G4AalU.ICmMzFjGL6O4RwH7i5dMIq8OGAurK-WmRqDTTs", 
+  "prefix": "!",
   "everyoneMention": true,
   "hostedBy": true
 }
