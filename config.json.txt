@@ -1,5 +1,5 @@
 {
-  "token": "OTU5NzYyMTM1MDQxMzMxMjUy.G4AalU.ICmMzFjGL6O4RwH7i5dMIq8OGAurK-WmRqDTTs", 
+  "token": "token", 
   "prefix": "!",
   "everyoneMention": true,
   "hostedBy": true
